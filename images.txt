@@ -1,1 +1,1 @@
-questdb/questdb:6.0.5
+centos:7
