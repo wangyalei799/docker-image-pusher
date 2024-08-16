@@ -1,1 +1,1 @@
-wazuh/wazuh-certs-generator:0.0.2
+provectuslabs/kafka-ui:latest
