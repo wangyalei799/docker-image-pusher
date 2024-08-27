@@ -1,1 +1,1 @@
-semitechnologies/weaviate:1.26.1
+semitechnologies/weaviate
